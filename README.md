@@ -1,5 +1,3 @@
-Viewed adv-02-unit-video-streaming.html:1-409
-
 針對 **`adv-02-unit-video-streaming` (影像串流原理：MJPEG vs. H.264)** 單元，這是一個涉及「影像壓縮算法」與「端到端延遲 (Latency)」深度對應的課題。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
